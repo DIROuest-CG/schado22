@@ -1,0 +1,108 @@
+"CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
+"Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22",NA,NA
+"Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","25/03/2030","Durable"
+"Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA
+"Guingamp","DUBUS","MAXIME","chef equipe a","District 22","25/03/2030","Durable"
+"Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22","25/03/2030","Durable"
+"Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22","03/02/2031","Durable"
+"Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA
+"Guingamp","LE GALL","YANN","agent d'exploitation","District 22","18/03/2030","Durable"
+"Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","11/09/2029","Durable"
+"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","25/03/2030","Durable"
+"Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA
+"Guingamp","LOSSOUARN ","HERVE",NA,"District 22","11/09/2029","Durable"
+"Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22","25/03/2030","Durable"
+"Guingamp","PATCHE","JIMMY","agent d'exploitation","District 22","27/06/2029","Durable"
+"Guingamp","PEROU","CHRISTOPHE","agent d'exploitation","District 22","11/09/2029","Durable"
+"Guingamp","PINARD","ERWAN","chef equipe b","District 22","22/05/2030","Durable"
+"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","11/09/2029","Durable"
+"Guingamp","SIMON","JEROME","agent d'exploitation","District 22","27/06/2029","Durable"
+"Le Perray","BERNARD","FRANCK","agent d'exploitation","District 22","25/03/2030","Durable"
+"Le Perray","COLLEU","BERTRAND","agent d'exploitation","District 22","18/03/2030","Durable"
+"Le Perray","DESVIGNE","BRIEG","agent d'exploitation","District 22","22/05/2030","Durable"
+"Le Perray","DUFOURD","MICKAEL","ajoint chef cei","District 22","24/03/2031","Durable"
+"Le Perray","DUROS","CHRISTOPHE","agent d'exploitation","District 22","24/03/2031","Durable"
+"Le Perray","GLATRE","MICKAEL","agent d'exploitation","District 22","25/03/2030","Durable"
+"Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22","18/03/2030","Durable"
+"Le Perray","HAMON","ROMAIN","responsable d'explo","District 22","24/03/2031","Durable"
+"Le Perray","HERVIOU","RONAN","responsable d'explo","District 22",NA,NA
+"Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22","25/03/2030","Durable"
+"Le Perray","JONQUET","HERVE","agent d'exploitation","District 22","24/03/2031","Durable"
+"Le Perray","LHOMMEAU","JACQUES","agent d'exploitation","District 22","25/03/2030","Durable"
+"Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22",NA,NA
+"Le Perray","NOGRETTE","STEPHANE","responsable de cei","District 22",NA,NA
+"Le Perray","OLLIVIER","STEPHANE","responsable d'explo","District 22","24/03/2031","Durable"
+"Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","24/06/2030","Durable"
+"Le Perray","PERRIN","CYRILLE","agent d'exploitation","District 22","18/03/2030","Durable"
+"Le Perray","PICQUET","FABIEN","responsable d'explo","District 22","24/03/2031","Durable"
+"Le Perray","PINARD","EMILIE","responsable d'explo","District 22","18/03/2030","Durable"
+"Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","06/03/2030","Durable"
+"Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22","04/02/2030","Durable"
+"Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","19/11/2029","Durable"
+"Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","25/03/2030","Durable"
+"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22","25/11/2030","Durable"
+"Loudeac","BURBAN","STEPHANE","agent d'exploitation","District 22",NA,NA
+"Loudeac","COTBREIL","TONY","chef equipe a","District 22",NA,NA
+"Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22","06/03/2030","Durable"
+"Loudeac","DUMONT","STEPHANE","agent d'exploitation","District 22","06/03/2030","Durable"
+"Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","06/03/2030","Durable"
+"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22","03/02/2031","Durable"
+"Loudeac","LE MAY","VALENTIN","responsable d'explo","District 22",NA,NA
+"Loudeac","LE ROUX-FLAGEUL","DAVID","responsable d'explo","District 22",NA,NA
+"Loudeac","QUILLERE","ARNAUD","chef.fe de cei","District 22",NA,NA
+"Loudeac","RETHORE","MICKAEL",NA,"District 22","22/05/2030","Durable"
+"Loudeac","RETHORE","MIKAEL","agent d'exploitation","District 22",NA,NA
+"Loudeac","ROUAUX","LUDOVIC","agent d'exploitation","District 22","22/05/2030","Durable"
+"Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22","16/09/2030","Durable"
+"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22","16/09/2030","Durable"
+"Pleslin","ANDRIEN","CYRIL","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","CHAHEN","CEDRIC","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","DIAL","LENAICK","agent  d'exploitati","District 22","27/06/2029","Durable"
+"Pleslin","FAVREL","CLAUDE","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","GAUTHIER","DYLAN","agent d'exploitation","District 22","20/06/2029","Durable"
+"Pleslin","GILLET","NICOLAS","chef equipe a","District 22","11/09/2029","Durable"
+"Pleslin","HINGAN","PHILIPPE","responsable de cei","District 22","22/05/2030","Durable"
+"Pleslin","LEGENDRE","STEPHANE","agent d'exploitation","District 22","18/03/2030","Durable"
+"Pleslin","MONNIER","ARNAUD","chef equipe b","District 22","18/03/2030","Durable"
+"Pleslin","NAVIER","ALAIN","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","PHELEP","ERIC","agent d'exploitation","District 22","18/03/2030","Durable"
+"Pleslin","PROVOST","JULIEN","agent d'exploitation","District 22","11/09/2029","Durable"
+"Pleslin","RAMOND","FABIEN","agent d'exploitation","District 22","24/03/2031","Durable"
+"Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22","22/05/2030","Durable"
+"Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22","27/06/2029","Durable"
+"Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22","11/09/2029","Durable"
+"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA
+"Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22","06/03/2030","Durable"
+"Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22","25/11/2030","Durable"
+"Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22",NA,NA
+"Rostrenen","HENAFF","LUC","agent d'exploitation","District 22","06/03/2030","Durable"
+"Rostrenen","JOULIN","JEAN-FRANCOIS",NA,"District 22","06/03/2030","Durable"
+"Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA
+"Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA
+"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA
+"Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA
+"Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA
+"Rostrenen","LESAUCE","GWENDAL",NA,"District 22","06/03/2030","Durable"
+"Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22","16/09/2030","Durable"
+"Rostrenen","MARTINEAU","LOIC","agent.e d'exploit","District 22","16/09/2030","Durable"
+"Rostrenen","PERAN","JEAN-MICHEL","responsable d'explo","District 22","24/03/2031","Durable"
+"Rostrenen","TREUSSARD","LOIC","chef equipe a","District 22",NA,NA
+"Tramain","BELNA","JEROME","agent d'exploitation","District 22","11/09/2029","Durable"
+"Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22","18/03/2030","Durable"
+"Tramain","CHOUANNIERE","ERIC","responsable d'explo","District 22",NA,NA
+"Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22","25/03/2030","Durable"
+"Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","25/03/2030","Durable"
+"Tramain","ECOBICHON","PATRICE","responsable de cei","District 22","18/03/2030","Durable"
+"Tramain","FOUERE","QUENTIN","agent d'exploitation","District 22","25/03/2030","Durable"
+"Tramain","LANDRIN","SEBASTIEN","responsable d'explo","District 22","27/06/2029","Durable"
+"Tramain","LE COZIC","SEBASTIEN","chef equipe a","District 22","18/03/2030","Durable"
+"Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","16/09/2030","Durable"
+"Tramain","MORIN","XAVIER","agent d'exploitation","District 22","25/03/2030","Durable"
+"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","19/09/2030","Durable"
+"Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22","22/05/2030","Durable"
+"Tramain","RAULT","FREDERIC","agent d'exploitation","District 22","27/05/2030","Durable"
+"Tramain","ROBERT","LOIC","agent d'exploitation","District 22","25/11/2030","Durable"
+"Tramain","ROBERT","VALENTIN","agent d'exploitation","District 22","27/06/2029","Durable"
+"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","06/03/2030","Durable"
