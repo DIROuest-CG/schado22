@@ -8,7 +8,6 @@
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","AIPR Opérateur","22/11/2028","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -35,8 +34,8 @@
 "Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","AIPR Opérateur","22/11/2027","Durable"
 "Le Perray","PERRIN","CYRILLE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Le Perray","PICQUET","FABIEN","responsable d'explo","District 22","AIPR - Encadrant","20/11/2028","Durable"
-"Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Concepteur","24/03/2028","Durable"
 "Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Encadrant","24/03/2028","Durable"
+"Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Concepteur","24/03/2028","Durable"
 "Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22",NA,NA,NA
@@ -62,8 +61,8 @@
 "Pleslin","GAUTHIER","DYLAN","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","GILLET","NICOLAS","chef equipe a","District 22","AIPR - Concepteur","24/03/2028","Durable"
 "Pleslin","GILLET","NICOLAS","chef equipe a","District 22","AIPR - Encadrant","24/03/2028","Durable"
-"Pleslin","HINGAN","PHILIPPE","responsable de cei","District 22","AIPR - Concepteur","24/03/2028","Durable"
 "Pleslin","HINGAN","PHILIPPE","responsable de cei","District 22","AIPR - Encadrant","24/03/2028","Durable"
+"Pleslin","HINGAN","PHILIPPE","responsable de cei","District 22","AIPR - Concepteur","24/03/2028","Durable"
 "Pleslin","LEGENDRE","STEPHANE","agent d'exploitation","District 22","AIPR - Encadrant","20/11/2028","Durable"
 "Pleslin","MONNIER","ARNAUD","chef equipe b","District 22",NA,NA,NA
 "Pleslin","NAVIER","ALAIN","agent d'exploitation","District 22","AIPR Opérateur","19/11/2029","Durable"
@@ -73,7 +72,7 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22","AIPR - Encadrant","20/11/2028","Durable"
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
+"Pleslin","ROBERT","CEDRIC",NA,"District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -83,7 +82,6 @@
 "Rostrenen","JOULIN","JEAN-FRANCOIS",NA,"District 22","AIPR - Encadrant","16/12/2026","Moins de 6 mois"
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LESAUCE","GWENDAL",NA,"District 22","AIPR Opérateur","15/12/2028","Durable"

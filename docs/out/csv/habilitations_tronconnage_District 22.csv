@@ -6,9 +6,8 @@
 "Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22","Tronçonnage","07/11/2030","Durable"
 "Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
-"Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins d'1 an"
+"Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins de 6 mois"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","Tronçonnage","08/11/2029","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Tronçonnage","09/02/2028","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22","Tronçonnage","14/03/2030","Durable"
@@ -43,9 +42,9 @@
 "Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Loudeac","BURBAN","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
 "Loudeac","COTBREIL","TONY","chef equipe a","District 22",NA,NA,NA
-"Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22","Tronçonnage","25/02/2027","Moins d'1 an"
+"Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22","Tronçonnage","25/02/2027","Moins de 6 mois"
 "Loudeac","DUMONT","STEPHANE","agent d'exploitation","District 22","Tronçonnage","18/03/2027","Moins d'1 an"
-"Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins d'1 an"
+"Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins de 6 mois"
 "Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
 "Loudeac","LE MAY","VALENTIN","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","LE ROUX-FLAGEUL","DAVID","responsable d'explo","District 22",NA,NA,NA
@@ -67,10 +66,10 @@
 "Pleslin","PHELEP","ERIC","agent d'exploitation","District 22","Tronçonnage","13/03/2031","Durable"
 "Pleslin","PROVOST","JULIEN","agent d'exploitation","District 22","Tronçonnage","10/03/2027","Moins d'1 an"
 "Pleslin","RAMOND","FABIEN","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins d'1 an"
+"Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins de 6 mois"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22","Tronçonnage","23/02/2028","Durable"
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","Tronçonnage","06/03/2030","Durable"
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins d'1 an"
+"Pleslin","ROBERT","CEDRIC",NA,"District 22","Tronçonnage","25/02/2027","Moins de 6 mois"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22","Tronçonnage","13/03/2031","Durable"
 "Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -81,7 +80,6 @@
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","Tronçonnage","02/02/2028","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22","Tronçonnage","13/03/2031","Durable"
@@ -91,14 +89,14 @@
 "Tramain","BELNA","JEROME","agent d'exploitation","District 22","Tronçonnage","08/11/2029","Durable"
 "Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22","Tronçonnage","09/02/2028","Durable"
 "Tramain","CHOUANNIERE","ERIC","responsable d'explo","District 22",NA,NA,NA
-"Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins d'1 an"
-"Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins d'1 an"
+"Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins de 6 mois"
+"Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","Tronçonnage","25/02/2027","Moins de 6 mois"
 "Tramain","ECOBICHON","PATRICE","responsable de cei","District 22",NA,NA,NA
 "Tramain","FOUERE","QUENTIN","agent d'exploitation","District 22","Tronçonnage","09/02/2028","Durable"
-"Tramain","LANDRIN","SEBASTIEN","responsable d'explo","District 22","Tronçonnage","18/02/2027","Moins d'1 an"
+"Tramain","LANDRIN","SEBASTIEN","responsable d'explo","District 22","Tronçonnage","18/02/2027","Moins de 6 mois"
 "Tramain","LE COZIC","SEBASTIEN","chef equipe a","District 22",NA,NA,NA
 "Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
-"Tramain","MORIN","XAVIER","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins d'1 an"
+"Tramain","MORIN","XAVIER","agent d'exploitation","District 22","Tronçonnage","18/02/2027","Moins de 6 mois"
 "Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","Tronçonnage","24/02/2028","Durable"
 "Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22",NA,NA,NA
 "Tramain","RAULT","FREDERIC","agent d'exploitation","District 22","Tronçonnage","06/03/2031","Durable"

@@ -8,7 +8,7 @@
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Gerbeur _ ACES","08/04/2031","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","Gerbeur _ ACES","10/04/2031","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","Gerbeur _ ACES","15/09/2027","Durable"
+"Guingamp","LEURANGUER","THIERRY",NA,"District 22","Gerbeur _ ACES","15/09/2027","Durable"
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Gerbeur _ ACES","21/09/2028","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22","Gerbeur _ ACES","08/04/2031","Durable"
@@ -64,7 +64,6 @@
 "Rostrenen","JOULIN","JEAN-FRANCOIS",NA,"District 22","Gerbeur _ ACES","08/04/2031","Durable"
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22",NA,NA,NA
@@ -104,5 +103,4 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA

@@ -1,14 +1,14 @@
 "CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","26/10/2033","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","26/10/2033","Durable"
-"Guingamp","COTTON","VALERIE","responsable d'explo","District 22","15/11/2029","Durable"
+"Guingamp","COTTON","VALERIE","responsable d'explo","District 22","28/05/2036","Durable"
 "Guingamp","DUBUS","MAXIME","chef equipe a","District 22","19/03/2031","Durable"
 "Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22","18/12/2035","Durable"
 "Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22","17/09/2034","Durable"
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","30/11/2033","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","13/09/2034","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","26/10/2033","Durable"
+"Guingamp","LEURANGUER","THIERRY",NA,"District 22","26/10/2033","Durable"
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","13/09/2034","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22",NA,NA
@@ -41,20 +41,20 @@
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22","27/03/2036","Durable"
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","27/03/2036","Durable"
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","30/11/2033","Durable"
-"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22",NA,NA
+"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22","28/05/2036","Durable"
 "Loudeac","BURBAN","STEPHANE","agent d'exploitation","District 22","16/06/2032","Durable"
 "Loudeac","COTBREIL","TONY","chef equipe a","District 22","10/01/2033","Durable"
 "Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22",NA,NA
 "Loudeac","DUMONT","STEPHANE","agent d'exploitation","District 22","10/12/2031","Durable"
 "Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","16/06/2032","Durable"
-"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22",NA,NA
+"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22","28/05/2036","Durable"
 "Loudeac","LE MAY","VALENTIN","responsable d'explo","District 22",NA,NA
 "Loudeac","LE ROUX-FLAGEUL","DAVID","responsable d'explo","District 22",NA,NA
 "Loudeac","QUILLERE","ARNAUD","chef.fe de cei","District 22",NA,NA
 "Loudeac","RETHORE","MIKAEL","agent d'exploitation","District 22",NA,NA
 "Loudeac","ROUAUX","LUDOVIC","agent d'exploitation","District 22","16/06/2032","Durable"
 "Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22",NA,NA
-"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22",NA,NA
+"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22","28/05/2036","Durable"
 "Pleslin","ANDRIEN","CYRIL","agent d'exploitation","District 22","13/09/2034","Durable"
 "Pleslin","CHAHEN","CEDRIC","agent d'exploitation","District 22","18/12/2035","Durable"
 "Pleslin","DIAL","LENAICK","agent  d'exploitati","District 22","13/09/2034","Durable"
@@ -71,7 +71,6 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","20/03/2034","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","20/03/2034","Durable"
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22",NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22","13/09/2034","Durable"
 "Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22","13/05/2029","Durable"
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22","13/05/2029","Durable"
@@ -80,9 +79,8 @@
 "Rostrenen","HENAFF","LUC","agent d'exploitation","District 22","20/03/2034","Durable"
 "Rostrenen","JOULIN","JEAN-FRANCOIS",NA,"District 22","13/05/2029","Durable"
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA
-"Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","13/05/2029","Durable"
+"Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","28/05/2036","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22",NA,NA

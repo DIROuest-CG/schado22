@@ -1,14 +1,14 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
-"Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA,NA
+"Guingamp","COTTON","VALERIE","responsable d'explo","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Guingamp","DUBUS","MAXIME","chef equipe a","District 22",NA,NA,NA
 "Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22","CACES R490 : grues de chargement","17/09/2034","Durable"
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","30/11/2028","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
+"Guingamp","LEURANGUER","THIERRY",NA,"District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -41,20 +41,20 @@
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","27/03/2031","Durable"
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","27/03/2031","Durable"
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","30/11/2028","Durable"
-"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Loudeac","BURBAN","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
 "Loudeac","COTBREIL","TONY","chef equipe a","District 22","CACES R490 : grues de chargement","10/01/2033","Durable"
 "Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","DUMONT","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","10/12/2026","Moins de 6 mois"
 "Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
-"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Loudeac","LE MAY","VALENTIN","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","LE ROUX-FLAGEUL","DAVID","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","QUILLERE","ARNAUD","chef.fe de cei","District 22",NA,NA,NA
 "Loudeac","RETHORE","MIKAEL","agent d'exploitation","District 22",NA,NA,NA
 "Loudeac","ROUAUX","LUDOVIC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
 "Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22",NA,NA,NA
-"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Pleslin","ANDRIEN","CYRIL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
 "Pleslin","CHAHEN","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","DIAL","LENAICK","agent  d'exploitati","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
@@ -71,7 +71,6 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
 "Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -79,8 +78,8 @@
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Rostrenen","HENAFF","LUC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
+"Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22",NA,NA,NA
