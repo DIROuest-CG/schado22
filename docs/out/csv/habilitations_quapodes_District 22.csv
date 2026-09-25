@@ -1,4 +1,5 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
+"District 22","CARRER","GWENAEL",NA,"District 22","QUAPODES","27/11/2030","Durable"
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","QUAPODES","21/05/2031","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA,NA
@@ -69,7 +70,6 @@
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22","QUAPODES","27/11/2030","Durable"
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22",NA,NA,NA

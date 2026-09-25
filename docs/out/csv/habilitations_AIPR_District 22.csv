@@ -1,4 +1,5 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
+"District 22","VINCENT-LEROUX","CORINNE",NA,"District 22","AIPR - Encadrant","16/12/2026","Moins de 6 mois"
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22",NA,NA,NA
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","AIPR Opérateur","19/11/2029","Durable"
 "Guingamp","COTTON","VALERIE","responsable d'explo","District 22","AIPR - Encadrant","07/11/2029","Durable"
@@ -34,8 +35,8 @@
 "Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","AIPR Opérateur","22/11/2027","Durable"
 "Le Perray","PERRIN","CYRILLE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Le Perray","PICQUET","FABIEN","responsable d'explo","District 22","AIPR - Encadrant","20/11/2028","Durable"
-"Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Encadrant","24/03/2028","Durable"
 "Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Concepteur","24/03/2028","Durable"
+"Le Perray","PINARD","EMILIE","responsable d'explo","District 22","AIPR - Encadrant","24/03/2028","Durable"
 "Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22",NA,NA,NA
@@ -72,9 +73,7 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22","AIPR - Encadrant","20/11/2028","Durable"
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
-"Pleslin","ROBERT","CEDRIC",NA,"District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
